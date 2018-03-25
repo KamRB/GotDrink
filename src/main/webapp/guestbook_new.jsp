@@ -174,7 +174,7 @@
 	</div>
 
 	<div class="container" style='margin-top:5%;'>
-		<h3 id="body-copy" style='font-weight:bold;'>List of my f**King drinks</h3>
+		<h3 id="body-copy" style='font-weight:bold;'>List of my drinks</h3>
 		<div class="row-fluid">
 			<div class="span2"></div>
 			<div class="span10">
